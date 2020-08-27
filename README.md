@@ -10,7 +10,8 @@ Make sure you have
  - **gpiozero**
 - **RPi.GPIO**
 - **RPLCD.gpio**
-if you dont just 
+
+if you dont have just 
 ```
 sudo apt-get update
 sudo pip install RPLCD
