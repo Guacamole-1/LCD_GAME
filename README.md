@@ -1,5 +1,5 @@
-# LCD_GAME
-A  game i made for raspberry pi 4 in 16x2 lcd
+# RPi4-LCD_GAME
+raspberry pi 4 game in a 16x2 lcd display
 
 # CONNECTIONS
 
