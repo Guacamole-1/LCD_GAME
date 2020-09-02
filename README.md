@@ -24,7 +24,8 @@ alt="" width="240" height="180" border="10" /></a> <--- press here
 
 # HOW TO PLAY
 
-just use the buttons in the connection to move the stickman if you dont know what do the terminal will say what to do
+just use the buttons in the connection to move the stickman if you dont know what do the terminal will say what to do.
+
 play with maximum contrast for a better experience
 
 # SPECIAL THANKS
