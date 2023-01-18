@@ -29,4 +29,4 @@ just use the buttons in the connection to move the stickman if you dont know wha
 play with maximum contrast for a better experience
 
 # SPECIAL THANKS
-Special thanks to paddyg (on raspberry pi forums ) for helping me :)
+Special thanks to paddyg (on raspberry pi forums ) for helping me fix the weird glitches :)
